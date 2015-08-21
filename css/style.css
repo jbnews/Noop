@@ -1,0 +1,55 @@
+body 
+{
+	font-family: Open Sans;
+}
+
+#footer
+{
+	background-color: black;
+	color: white;
+	padding-top: 3em;
+	padding-bottom: 3em;
+}
+
+#footer a 
+{
+	color: white;
+}
+
+#footer a:hover
+{
+	 color: #FFF9DE;
+}
+
+.social a
+{
+	font-size: 24px;
+}
+
+#wrapper 
+{
+	background-image: url("../images/wheat-776783_1280.jpg");
+	height: 500px;
+	background-size: cover;
+	text-align: center;
+	padding-top: 150px;
+	color: #505559;
+	font-family: Poiret One;
+}
+
+#wrapper h2{
+	font-size: 35px;
+	padding-bottom: 1em;
+}
+
+.fonction
+{
+	padding-top: 3em;
+	padding-bottom: 3em;
+}
+
+.transparence
+{
+	background-color: black;
+}
+
