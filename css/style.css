@@ -37,10 +37,16 @@ body
 	font-family: Poiret One;
 }
 
+#wrapper a
+{
+	color: black;
+}
+
 #wrapper h2{
 	font-size: 35px;
 	padding-bottom: 1em;
 }
+
 
 .fonction
 {
